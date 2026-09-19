@@ -10,17 +10,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay5ain" alt="vinay5ain" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anaveshak" target="blank"><img src="https://img.shields.io/twitter/follow/anaveshak?logo=twitter&style=for-the-badge" alt="anaveshak" /></a> </p>
 
-- 🌱 I’m currently learning **Everything**
+🌱 I’m currently learning **Full-Stack Development, AI & Cloud Technologies**
 
-- 👯 I’m looking to collaborate on **Everything**
+👯 I’m looking to collaborate on **Full-Stack, AI & Open-Source Projects**
 
-- 🤝 I’m looking for help with **Nothing**
+🤝 I’m looking for help with **Building Scalable & Real-World Applications**
 
-- 💬 Ask me about **Anything**
+💬 Ask me about **Java, Python, React, Node.js, AI Integration & Web Development**
 
-- 📫 How to reach me **kumarsainvinay15@gmail.com**
+📫 How to reach me **kumarsainvinay15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
