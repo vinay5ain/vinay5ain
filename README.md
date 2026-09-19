@@ -8,9 +8,6 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">/></a> </p>
-
-
 🌱 I’m currently learning **Full-Stack Development, AI & Cloud Technologies**
 
 👯 I’m looking to collaborate on **Full-Stack, AI & Open-Source Projects**
@@ -23,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anaveshak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anaveshak" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vinay-kumar-sain-85063636a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinay-kumar-sain-85063636a/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25424299/vinay-kumar-sain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25424299/vinay-kumar-sain" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/vinay5ain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vinay5ain" height="30" width="40" /></a>
