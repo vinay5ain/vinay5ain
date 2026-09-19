@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Vinay Kumar Sain</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=800&size=48&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=650&lines=HI%2C+I'M+VINAY KUMAR SAIN;FULL+STACK+ENGINEER;AI+INTEGRATION+ENTHUSIAST" alt="Typing SVG" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay5ain&label=Profile%20views&color=0e75b6&style=flat" alt="vinay5ain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay5ain" alt="vinay5ain" /></a> </p>
