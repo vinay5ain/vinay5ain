@@ -8,7 +8,7 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay5ain" alt="vinay5ain" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">/></a> </p>
 
 
 🌱 I’m currently learning **Full-Stack Development, AI & Cloud Technologies**
