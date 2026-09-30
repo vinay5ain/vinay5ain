@@ -130,22 +130,8 @@ A full-stack digital agency platform for managing services, plans, payments and 
 
 ## 📊 GitHub Stats
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=vinay5ain&show_icons=true&locale=en&layout=compact"
-    alt="vinay5ain"
-  />
-</p>
 
-<p>
-  &nbsp;
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=vinay5ain&show_icons=true&locale=en"
-    alt="vinay5ain"
-  />
-</p>
+
 
 <p>
   <img
